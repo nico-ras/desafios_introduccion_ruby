@@ -1,2 +1,2 @@
 nombre = gets.chomp 
-puts "Hola #{"nico"}"
+puts "Hola #{"nombre"}"
